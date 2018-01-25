@@ -1,4 +1,4 @@
-# JSProjects
+# JavaScript Projects
 Small Javascript Projects
 
 <p data-height="265" data-theme-id="dark" data-slug-hash="apRRQy" data-default-tab="js,result" data-user="MH453" data-embed-version="2" data-pen-title="Twitch Tv Api" class="codepen">See the Pen <a href="https://codepen.io/MH453/pen/apRRQy/">Twitch Tv Api</a> by MH453 (<a href="https://codepen.io/MH453">@MH453</a>) on <a href="https://codepen.io">CodePen</a>.</p>

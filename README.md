@@ -6,7 +6,6 @@ Small Javascript Projects
 <p data-height="265" data-theme-id="dark" data-slug-hash="XpYZJe" data-default-tab="result" data-user="MH453" data-embed-version="2" data-pen-title="Wikipedia Viewer" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/MH453/pen/XpYZJe/">Wikipedia Viewer</a> by MH453 (<a href="https://codepen.io/MH453">@MH453</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 
 <p data-height="265" data-theme-id="dark" data-slug-hash="vgpzNq" data-default-tab="js,result" data-user="MH453" data-embed-version="2" data-pen-title="Random Quotes" class="codepen">See the Pen <a href="https://codepen.io/MH453/pen/vgpzNq/">Random Quotes</a> by MH453 (<a href="https://codepen.io/MH453">@MH453</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 <p data-height="265" data-theme-id="dark" data-slug-hash="akEXEo" data-default-tab="js,result" data-user="MH453" data-embed-version="2" data-pen-title="Tick tack toe game" class="codepen">See the Pen <a href="https://codepen.io/MH453/pen/akEXEo/">Tick tack toe game</a> by MH453 (<a href="https://codepen.io/MH453">@MH453</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 
